@@ -1,2 +1,0 @@
-# datasciencecoursera
-peer graded assignment
